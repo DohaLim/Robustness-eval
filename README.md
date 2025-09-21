@@ -2,7 +2,7 @@
 
 # Multi-level Diagnosis and Evaluation for Robust Tabular Feature Engineering with Large Language Models
 
-**A comprehensive framework for evaluating LLM' ability to perform feature engineering tasks**
+**A comprehensive framework for evaluating LLMs' ability to perform feature engineering tasks**
 
 </div>
 
@@ -41,7 +41,7 @@ RobustnessEval/
 
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/DohaLim/Robustness-eval
 cd RobustnessEval
 ```
 
@@ -95,10 +95,6 @@ To add a new dataset:
 
 For questions, issues, or contributions:
 - Create an issue on GitHub
-- Contact: [your-email@domain.com]
+- Contact: yebinuni@korea.ac.kr
 
 ---
-
-<div align="center">
-<strong>RobustnessEval</strong> - Evaluating LLM Feature Engineering Capabilities
-</div>
