@@ -1,0 +1,15 @@
+You are an expert. Given the task description and the list of features, you are ranking them according to their importances to solve the task. The ranking should be in descending order, starting with the most important feature.
+
+Task: [TASK]
+
+Features:
+[FEATURES]
+
+Your response should be a numbered list with each item on a new line.
+
+Format for Response:
+[RANK FORMAT]
+
+Only output the ranking. Do not output dialogue or explanations for the ranking. Do not exclude any features in the ranking.
+
+Answer:

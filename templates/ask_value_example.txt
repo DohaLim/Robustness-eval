@@ -1,0 +1,20 @@
+You are an expert. Given the task description and the list of features and data examples, you are filling in the feature conditions for each class to solve the task.
+
+Task: [TASK]
+
+Features:
+[FEATURES]
+
+Examples:
+[EXAMPLES]
+
+Format for Response:
+[FEATURE CONDITION]
+
+Format for Value:
+[VALUE FORMAT]
+
+Do not change anything besides the value. Do not output dialogue or explanations for the response. Do not provide redundant or repetitive answers.
+**DO NOT ANSWER MORE THAN [FEATURE NUMBER] CONDITIONS FOR EACH CLASS. FOLLOW THE GIVEN FORMAT.**
+
+Answer: 

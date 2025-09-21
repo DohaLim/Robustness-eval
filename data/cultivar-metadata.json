@@ -1,0 +1,12 @@
+{
+  "Season":"1 or 2",
+  "Cultivar":"Cultivar names",
+  "Repetition":"1, 2, 3 or 4",
+  "PH":"plant height (cm)",
+  "IFP":"insertion of the first pod (cm)",
+  "NLP":"Number of stems (unit)",
+  "NGP":"Number of legumes per plant (unit)",
+  "NGL":"Number of grains per plant (unit)",
+  "NS":"Number of grains per pod (unit)",
+  "MHG":"Thousand seed weight (g)"
+}

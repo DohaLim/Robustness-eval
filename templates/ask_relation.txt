@@ -1,0 +1,16 @@
+You are an expert. Given the task description and the list of features, analyze the causal relationship or tendency between each feature and class based on general knowledge and common sense within a short sentence. 
+
+Task: [TASK]
+
+Features:
+[GOLDEN FEATURES]
+
+Format for Response:
+[FEATURE TARGET FORMAT]
+
+Do not output dialogue or explanations for the response.
+**DO NOT ANSWER MORE THAN [FEATURE NUMBER] CONDITIONS FOR EACH CLASS. FOLLOW THE GIVEN FORMAT.**
+
+Answer:
+
+
