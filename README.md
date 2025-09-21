@@ -2,7 +2,7 @@
 
 # Multi-level Diagnosis and Evaluation for Robust Tabular Feature Engineering with Large Language Models
 
-**A comprehensive framework for evaluating Large Language Models' ability to perform feature engineering tasks**
+**A comprehensive framework for evaluating LLM' ability to perform feature engineering tasks**
 
 </div>
 
